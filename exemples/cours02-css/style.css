@@ -1,0 +1,33 @@
+
+strong {
+    color: rgb(255, 0, 0);
+}
+
+p.phrase_choc {
+    text-align : center;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+p#paragraphe2{
+    color: #00FF00;
+}
+
+a[target="_blank"]{
+    color: #ff0000;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+a.lien_externe[target="_blank"]:hover{
+
+}
+
+p, a, span {
+    background-color: yellow;
+}
