@@ -28,6 +28,6 @@ a.lien_externe[target="_blank"]:hover{
 
 }
 
-p, a, span {
+p, a.lien_externe, span {
     background-color: yellow;
 }
