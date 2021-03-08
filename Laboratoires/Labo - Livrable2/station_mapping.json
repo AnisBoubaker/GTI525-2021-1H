@@ -56,7 +56,7 @@
         "rss_feed": "https://meteo.gc.ca/rss/city/on-143_f.xml"
     },
     "YVR": {
-        "station_ids": [51357,51442],
+        "station_ids": [889,51442],
         "rss_feed": "https://meteo.gc.ca/rss/city/bc-74_f.xml"
     },
     "YYJ": {
