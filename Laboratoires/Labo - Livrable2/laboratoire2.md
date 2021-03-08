@@ -170,7 +170,7 @@ Pour le projet de session, vous devez utiliser un entrepôt Git (GitHub ou GitLa
 | | | |
 | *Pénalité* | Code JS mal structuré (-10) |  |
 | *Pénalité* | Code JS dans fichier HTML (-5) | |
-| *Pénalité* | Pratiques non-recommandées (ex., insertion de code brut HTML dans le DOM) (-5) |  |
+| *Pénalité* | Pratiques non-recommandées (ex., insertion de code brut HTML dans le DOM) (-10) |  |
 | *Pénalité* | Mise en page HTML/CSS mal structurée (ex., utilisation de tableaux) (-5) |  |
 | *Pénalité* | Des fonctionnalités du livrable précédent ne fonctionnent plus (-10) |  |
 | *Pénalité* | Fautes de français dans le rapport (-0.5% par faute, jusqu'à -10%) ||
