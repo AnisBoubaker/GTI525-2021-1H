@@ -1,0 +1,21 @@
+div, p , a{
+    padding: 15px 30px;
+    width: 50%;
+    display: block;
+}
+
+div{
+    background-color: #cccccc;
+    border: 1px solid #000;
+}
+
+p{
+    background-color: #aaaaaa;
+}
+
+a{
+    display: block;
+    background-color: #888888;
+    color: #ffffff;
+    margin: 10px;
+}
